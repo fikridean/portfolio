@@ -1,25 +1,15 @@
-import logo from './logo.svg';
-import './App.css';
+import Mobile from './mobile component/mobile';
+import Web from './web component/web';
 
-function App() {
+export default function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="app">
+      {/* mobile version */}
+      <Mobile />
+
+      {/* web version */}
+      <Web />
     </div>
   );
 }
 
-export default App;
