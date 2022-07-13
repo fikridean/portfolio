@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.1d3bd75c.css",
+    "main.js": "/portfolio/static/js/main.dace07c6.js",
+    "static/media/background.jpg": "/portfolio/static/media/background.311152b5f83e62e092c2.jpg",
+    "static/media/background-2.jpg": "/portfolio/static/media/background-2.03d4892bcfa49453c529.jpg",
+    "static/media/uin.png": "/portfolio/static/media/uin.ef3064407cd8597e0270.png",
+    "static/media/step_world2.png": "/portfolio/static/media/step_world2.44415425a1904f89b047.png",
+    "static/media/step_world.png": "/portfolio/static/media/step_world.df57466431c060054739.png",
+    "static/media/js_doc.png": "/portfolio/static/media/js_doc.49fa6f1126f689a27837.png",
+    "static/media/vacansy_remake.png": "/portfolio/static/media/vacansy_remake.02e2d87460c4d20578eb.png",
+    "static/media/survey.png": "/portfolio/static/media/survey.e415a54f6786a14c657f.png",
+    "static/media/formal1000.png": "/portfolio/static/media/formal1000.74d752480e6bb7fabb15.png",
+    "static/media/tiger_woods.png": "/portfolio/static/media/tiger_woods.c0e06632ab1161836ed4.png",
+    "static/media/JF_certificate.png": "/portfolio/static/media/JF_certificate.e30718200b3accad9a47.png",
+    "static/media/JFo_Certificate.png": "/portfolio/static/media/JFo_Certificate.791199968fa8ca323947.png",
+    "static/media/JavaScript_Algorithms_and_Data_Structures_Certificate.png": "/portfolio/static/media/JavaScript_Algorithms_and_Data_Structures_Certificate.05135a3bee5052c2628f.png",
+    "static/media/certificate_responsive_web.png": "/portfolio/static/media/certificate_responsive_web.06393997faedb55e1f54.png",
+    "index.html": "/portfolio/index.html",
+    "main.1d3bd75c.css.map": "/portfolio/static/css/main.1d3bd75c.css.map",
+    "main.dace07c6.js.map": "/portfolio/static/js/main.dace07c6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d3bd75c.css",
+    "static/js/main.dace07c6.js"
+  ]
+}
